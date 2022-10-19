@@ -2,7 +2,7 @@
 
 > Desenvolvedor FullStack.
 
-🔭 Atualmente estou desenvolvendo uma plataforma em uma StartUp para recrutamento de talentos que querem ingressar no mercado de trabalho,
+🔭 Atualmente estou desenvolvendo uma plataforma em uma StartUp para recrutamento de talentos que visam ingressar no mercado de trabalho,
 participando da construção do Front-End com Reactjs, lá tenho feito telas de cadastro, login e uma landing page.
 
 
