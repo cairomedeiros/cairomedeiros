@@ -26,4 +26,4 @@ participando da construção do Front-End com Reactjs, lá tenho feito telas de 
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cairomedeiros&show_icons=true)
