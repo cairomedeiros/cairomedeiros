@@ -1,10 +1,10 @@
-## Olá, meu nome é <strong>Cairo Medeiros!</strong>
+## :coffee: Olá, meu nome é <strong>Cairo Medeiros!</strong>
 
 > Desenvolvedor FullStack.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualmente estou desenvolvendo uma plataforma em uma StartUp para recrutamento de talentos que querem ingressar no mercado de trabalho,
+participando da construção do Front-End com Reactjs, lá tenho feito telas de cadastro, login e uma landing page.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
 
