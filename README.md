@@ -26,3 +26,6 @@ participando da construção do Front-End com Reactjs, lá tenho feito telas de 
 
 ## ⭐ Linguagens mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cairomedeiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## :robot: Atividade
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cairomedeiros)
