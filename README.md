@@ -2,8 +2,7 @@
 
 > Desenvolvedor FullStack.
 
-🔭 Atualmente estou desenvolvendo uma plataforma em uma StartUp para recrutamento de talentos que visam ingressar no mercado de trabalho,
-participando da construção do Front-End com Reactjs, lá tenho feito telas de cadastro, login e uma landing page.
+🔭 Atualmente estou participando de um projeto onde atuo no front com React e outro onde sou FullStack com as tecnologias Angular e Java.
 
 
 ----
