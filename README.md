@@ -25,4 +25,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cairomedeiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :robot: Atividade
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cairomedeiros)
