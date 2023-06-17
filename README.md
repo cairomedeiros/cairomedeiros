@@ -25,4 +25,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cairomedeiros&layout=compact&theme=tokyonight)
 
 ## :robot: Atividade
-[![Cairo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cairomedeiros&theme=tokyo-night)](https://github.com/cairomedeiros/github-readme-activity-graph)
+[![Cairo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cairomedeiros&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
