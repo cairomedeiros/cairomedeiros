@@ -2,7 +2,7 @@
 
 > Desenvolvedor FullStack.
 
-🔭 Atualmente trabalho como desenvolvedor fullstack na Indra Company, onde venho utilizando as stacks Vue.js e Java
+🔭 Atualmente trabalho como desenvolvedor fullstack na Indra Company, onde venho utilizando as stacks Vue.js e Java.
 
 
 ----
