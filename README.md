@@ -1,8 +1,8 @@
 ## :coffee: Olá, meu nome é <strong>Cairo Medeiros!</strong>
 
-> Desenvolvedor FullStack.
+> Desenvolvedor FullStack
 
-🔭 Atualmente trabalho como desenvolvedor fullstack na Indra Company, onde venho utilizando as stacks Vue.js e Java.
+🔭 Atualmente trabalho como desenvolvedor fullstack na Indra Company, onde venho utilizando as stacks Vue.js e Java
 
 
 ----
