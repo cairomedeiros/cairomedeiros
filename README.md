@@ -2,7 +2,7 @@
 
 > FullStack Developer
 
-🔭 I'm currently working with Java, Python and Vue.js at Indra Company. I'm also learning Golang and Python to enhance my skills.
+🔭 I'm currently working with Python and React at Indra Company. I'm also learning Golang to enhance my skills.
 
 
 ----
